@@ -158,7 +158,7 @@ class LinearValue:
 class PerformanceSystem:
     def __init__(self, v: LinearValue): 
         self.v = v
-        self.epsilon = 0.1  # exploration rate
+        self.epsilon = 0.25  # exploration rate
 
     def choose_best(self, b: Board, player: str) -> int:
         
