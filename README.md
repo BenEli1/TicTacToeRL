@@ -146,9 +146,6 @@ The GUI includes a dictionary of **preset weights** keyed by training game count
 ---
 
 ## License
-
-MIT
-
 ---
 
 ## Acknowledgments
